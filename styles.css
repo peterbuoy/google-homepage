@@ -44,6 +44,15 @@
   height: 50px;
   width: 500px;
   border: 1px solid grey;
+  margin-bottom: 20px;
+}
+
+.search-buttons {
+  border-radius: 5px;
+  border-color: #ffffff;
+  background-color: #f3f3f3  ;
+  border-width: 0px;
+  padding: 10px 15px;
 }
 
 .material-icons-outlined.md-36 { font-size: 36px; }
@@ -62,6 +71,7 @@
   display: flex;
   flex-direction: column;
   text-align: center;
+  padding-top: 15px;
   bottom: 0;
   width: 100%;
   position: absolute;
